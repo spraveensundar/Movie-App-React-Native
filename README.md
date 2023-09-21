@@ -1,5 +1,24 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_08_34](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/abe6eaf6-9fa7-4953-9b8a-0e1e963a7057)   ![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_08_27](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/2ce75220-5e9c-48a6-a73f-712b72e43198)
+
+
+![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_11_43](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/e9d2647b-0956-4b38-8b71-a8a2d86ff6c1)   ![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_09_17](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/01166f81-d162-4b36-8df9-3650d8cade8f)
+
+
+![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_09_25](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/b6f0afba-79ba-4bd9-989a-686f0c20ba7e)    ![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_09_33](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/2c3a2f01-5f28-418a-9fab-deb21ab0e0f8)
+
+
+
+![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_09_58](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/4cc21f6b-6c13-43b7-bbc4-4085d3359eda)    ![Android Emulator - Pixel_6_Pro_5554 19-09-2023 21_11_35](https://github.com/spraveensundar/Movie-App-React-Native/assets/131776093/b6b3802c-d817-4519-8ce5-8398efc773b6)
+
+
+
+
+
+
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -55,25 +74,3 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
